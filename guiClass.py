@@ -1,4 +1,4 @@
-__author__ = 'MD'
+__author__ = 'Shailesh'
 from Tkinter import *
 import piggybank
 import tkMessageBox
