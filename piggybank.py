@@ -1,4 +1,4 @@
-__author__ = 'MD'
+__author__ = 'Shailesh'
 from blockchain.wallet import Wallet
 from blockchain import exchangerates
 import urllib
